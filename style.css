@@ -1,0 +1,17 @@
+body{
+    color: aqua;
+    background-color: rgb(8, 107, 255);
+}
+.heading{
+    width: 60%;
+    font-size: 22px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: firebrick;
+    font-size: 25px;
+}
+#camera{
+    border: 2px groove chartreuse;
+    width: 350px;
+    height: 300px;
+}
